@@ -42,3 +42,11 @@ git add .
 git commit -m "add readme.md"
 
 git push origin main
+
+
+
+git clone https://github.com/Hannelie/git-example git-example2
+
+cd git-example2
+
+git status
